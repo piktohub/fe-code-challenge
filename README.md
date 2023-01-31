@@ -72,9 +72,9 @@ These are the features we expect the editor to has:
 ### Notes
 
 - We use mostly Chrome, but we expect it to run in any modern browser.
-- We use vue.js, it is not a must but we strongly suggest using it.
-- We use typescript, it is not a must but we strongly suggest using it.
-- Use as less libraries as possible. It doesn't mean you have to code all yourself, but if you include a library there has to be a good reason for it.
+- We use Vue.js, it is not a must but we strongly suggest using it.
+- We use Typescript, it is not a must but we strongly suggest using it.
+- Use as little libraries as possible. It doesn't mean that you have to code it all yourself, but if you include a library, there has to be a good reason for it.
 
 ### How to Submit?
 
